@@ -12,7 +12,7 @@ When the app restarts, the app fetches the weather for the location.
 
 Perhaps if the weather is automatically fetched, maybe latitude and longitude should
 not be persisted so the weather is always fetched from the server for the current location.
-However this is not the case currently. If such a change is required, it can be met with
+However this is not the at present(weather is fetched for the saved location). If such a change is required, it can be met with
 easy code change.
 
 The MVVM-C model is adapted for SwiftUI to the maximum extent possible without 
